@@ -1,0 +1,68 @@
+{
+    "name": "Economic Research Service",
+    "description": "USDA is committed to providing safe and nutritious food, conservation, sustainable food production and revitalizing rural America.Comment Policy: http:\/\/www.usda.gov\/newmedia",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11177-economic-research-service.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/economic-research-service\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Economic Research Service",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11177-economic-research-service.jpg",
+            "humanURL": "http:\/\/www.ers.usda.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/economic-research-service-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/economic-research-service-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.data.gov\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/united-states-department-of-agriculture"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.ers.usda.gov\/developer"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@oc.usda.gov"
+        },
+        {
+            "type": "Email",
+            "url": "Marj.Leaming@ocio.usda.gov"
+        },
+        {
+            "type": "Email",
+            "url": "USDAPrivacy@ocio.usda.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/USDA"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.ers.usda.gov"
+        }
+    ]
+}
